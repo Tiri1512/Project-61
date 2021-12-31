@@ -1,0 +1,75 @@
+body
+{
+    text-align: center;
+    background: linear-gradient (#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+    background-color: palevioletred;
+}
+h1
+{
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 20px;
+}
+#bio
+{
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+    background: linear-gradient(aqua 30%,blueviolet 100%);
+   
+   
+    
+}
+
+    
+    
+
+p
+{
+    text-align: center;
+}
+.menu
+{
+    list-style: none;
+    font-family: cursive;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 99999;
+    cursor: pointer;
+    width: 100%;
+    background-color: aqua;
+}
+.L1
+{
+    padding-left: 35px;
+    padding-right: 35px;
+    color: aquamarine;
+    font-size: 15px; 
+    text-decoration-style: none !important;
+    display: inline;
+}
+.L1:hover
+{
+  font-size: 25px;
+    
+}
+.pic:hover
+{
+  transform: scale(0.9)
+}
+
+#Welcome
+{
+    z-index: 9;
+    margin-top: 150px
+}
+
+#pic#1
+{
+    width: auto;
+    margin: 20px;
+    height: 300px;
+    border-radius: 0%;
+        
+}
